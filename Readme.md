@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Артем Писканов](https://up.htmlacademy.ru/adaptive/24/user/53982).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
